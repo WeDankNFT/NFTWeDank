@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x878db5d4c5b41f8ab656ad4b245e58eddaa6ffb1",
+  "NETWORK": {
+    "NAME": "Rinkeby Test Network",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "WeDank NFT",
+  "SYMBOL": "WDNFT",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 75000000000000,
+  "DISPLAY_COST": 0.025,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/wedank-nft-collection",
+  "SHOW_BACKGROUND": true
+}
